@@ -276,12 +276,4 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Created as a React Native assessment project - 2026
-
-## 📞 Support
-
-For issues or questions, please create an issue in the repository or contact the development team.
-
----
-
-**Happy Coding! 🎉**
+Created as a React Native assessment project By B Gokul Krishna Sai - 2026
