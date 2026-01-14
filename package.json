@@ -9,8 +9,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "start": "expo start",
-    "test": "jest",
-        "export:web": "expo export:web"
+    "test": "jest"
+    
   },
   "dependencies": {
     "@expo/metro-runtime": "~6.1.2",
