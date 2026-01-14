@@ -92,6 +92,7 @@ react-native-task-assessment/
 - **Accessibility**: Proper touch targets and color contrast
 
 ## 🚀 Getting Started
+<img width="631" height="498" alt="image" src="https://github.com/user-attachments/assets/2ed0e9e5-8397-4382-87a5-3251f0bef052" />
 
 ### Prerequisites
 - Node.js 16+
